@@ -1,5 +1,5 @@
 #Chadicus\Spl                                                                                                         
-[![Build Status](https://travis-ci.org/chadicus/spl-php.png)](https://travis-ci.org/chadicus/spl-php)                      
+[![Build Status](http://img.shields.io/travis/chadicus/spl-php.svg?style=flat)](https://travis-ci.org/chadicus/spl-php)                      
 
 A collection of interfaces and classes that are meant to solve common problems.
                                                                                                                          
